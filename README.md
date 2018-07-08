@@ -1,2 +1,4 @@
 # hello-world
-Git Procrastinations Repository
+Wer wohnt in ner Ananas ganz tief im Meer?!
+
+Ich habe keinen Bock auf das FPraktikum und deswegen lerne ich jetzt GitHub 
